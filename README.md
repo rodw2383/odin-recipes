@@ -1,1 +1,3 @@
 # odin-recipes
+
+Putting my HTML knowledge to the test by creating a website that shows a few recipes. Skills that I need to demonstrate to execute this successfully are using elements and tags appropriately, proper HTML boilerplate, formatting text appropriately, creating ordered and unordered lists where applicable, executing lists and putting the recipe images in the right places. Besides the coding, this is my first time committing a project to github! Lfg.
